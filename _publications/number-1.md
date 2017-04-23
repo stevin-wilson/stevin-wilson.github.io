@@ -1,7 +1,7 @@
 ---
 title: "The RAD51 and DMC1 homoeologous genes of bread wheat: cloning, molecular characterization and expression analysis"
 collection: publications
-permalink: /publications/2009-10-01-paper-title-number-1
+permalink: /publications/number-1.md
 venue: "BMC Research Notes"
 date: 2010
 paperurl: http://upendrak.github.io/files/paper1.pdf
