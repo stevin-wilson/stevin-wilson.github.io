@@ -1,3 +1,12 @@
+---
+permalink: /markdown/
+title: "Markdown"
+author_profile: true
+redirect_from: 
+  - /md/
+  - /markdown.html
+---
+
 Upendra Kumar Devisetty, Ph.D.
 Science Informatician, CyVerse
 Thomas W. Keating Bioresearch Building
