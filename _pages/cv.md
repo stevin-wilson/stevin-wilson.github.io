@@ -15,12 +15,12 @@ Education
 | ------------ | ------ | ----- | -------------- |  
 | University of Nottingham, UK |  Ph.D (Ag) | 2005-2009 | Crop Genetics |  
 | G.B.P.U.A.T, India | M.Sc (Ag) | 2001-2003 | Molecular Biology |  
-| A.N.G.R.A.U, India |  B.Sc (Ag) | 1996-2000 | Agriculture |
+| A.N.G.R.A.U, India | B.Sc (Ag) | 1996-2000 | Agriculture |
 
 Research experience
 ======
 * 2016-current: Science Informatician  
-  [CyVerse] (www.cyverse.org), University of Arizona, AZ
+  [CyVerse](www.cyverse.org), University of Arizona, AZ
   * **Duties**: Scientifically interact with biologists, bioinformaticians, programming teams and other members of CyVerse team as well as coordinate development across projects, and facilitate integration and cross-communication. Translate community input into proof-of-concept prototypes, formal software requirements, and participate in the design of implementation of Next Generation systems
   * **Achievements**: Integrated Work-Queue MAKER genome annotation pipeline in the Jetstream cloud, optimized the process of bringing tools and workflows into CyVerse Discovery Environment using Bioconda and Biocontainers, constructed Evolutionary analysis of Long-intergenic Non-Coding RNA pipeline from RNA-Seq data, integrated Gene expression matrix Pegaus pipeline in the Jetstream cloud, integrated more than 50 Bioinformatics apps and images into Cyverse 
   * **Supervisor**: Dr. Eric Lyons
