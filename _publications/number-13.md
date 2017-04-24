@@ -1,8 +1,8 @@
 ---
-title: "Leveraging CyVerse Resources for De Novo Comparative Transcriptomics of Underserved (Non-model) Organisms"
+title: "Using RNA-seq for genomic scaffold placement, correcting assemblies, and genetic map creation in a common Brassica rapa mapping population"
 collection: publications
-venue: "JOVE"
-date: 2017-04-21
-paperurl: http://upendrak.github.io/files/paper12.pdf
-citation: 'Blake Joyce, Asher K Haug-Baltzell, Jonathan P Hulvey, Fiona McCarthy, Upendra Kumar Devisetty, Eric Lyons (2017). "Leveraging CyVerse Resources for De Novo Comparative Transcriptomics of Underserved (Non-model) Organisms" <i>JOVE</i>. 1(12).'
+venue: "G3"
+date: 2017-04-24
+paperurl: http://upendrak.github.io/files/paper13.pdf
+citation: 'RJ Cody Markelz, Michael F Covington, Marcus T Brock, **Upendra K Devisetty**, Daniel J Kliebenstein, Cynthia Weinig, Julin N Maloof (2017). "Using RNA-seq for genomic scaffold placement, correcting assemblies, and genetic map creation in a common Brassica rapa mapping population" <i>G3</i>. 1(13).'
 ---
