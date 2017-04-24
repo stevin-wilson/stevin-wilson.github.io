@@ -1,8 +1,8 @@
 ---
-title: "Using deep RNA-Seq for polymorphism detection and improving genome annotation of Brassica rapa "
+title: "Modeling leaf development enables quantitative trait mapping mapping of novel loci and reveals independent genetic modules for leaf size and shape in Brassica rapa"
 collection: publications
-venue: "G3"
-date: 2014-08-12
-paperurl: http://upendrak.github.io/files/paper4.pdf
-citation: 'Upendra Kumar Devisetty, Mike Covington, An V. Tat and Julin N. Maloof (2014). "Using deep RNA-Seq for polymorphism detection and improving genome annotation of Brassica rapa " <i>G3</i>. 1(4).'
+venue: "New Phytology"
+date: 2015-05-11
+paperurl: http://upendrak.github.io/files/paper6.pdf
+citation: 'Robert L. Baker, Wen Fung Leong, Marcus T. Brock, Robert C. Markelz, Mike Covington, Upendra K. Devisetty, Julin Maloof, Stephen Welch, and Cynthia Weinig (2015). "Modeling leaf development enables quantitative trait mapping mapping of novel loci and reveals independent genetic modules for leaf size and shape in Brassica rapa" <i>New Phytology</i>. 1(6).'
 ---
