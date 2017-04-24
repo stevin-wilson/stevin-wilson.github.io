@@ -1,8 +1,8 @@
 ---
-title: "The divergence of flowering time modulated by FT/TFL1 is independent to their interaction and binding activities"
+title: "Leveraging CyVerse Resources for De Novo Comparative Transcriptomics of Underserved (Non-model) Organisms"
 collection: publications
-venue: "Frontiers in Plant science"
+venue: "JOVE"
 date: 2017-04-21
-paperurl: http://upendrak.github.io/files/paper11.pdf
-citation: 'Wang, Z, R. Yang, U. Devisetty, J. Maloof, Y. Zuo, J. Li, Y. Shen, J. Zhao, M. Bao and G. Ning (2016). "The divergence of flowering time modulated by FT/TFL1 is independent to their interaction and binding activities" <i>Frontiers in Plant science</i>. 1(11).'
+paperurl: http://upendrak.github.io/files/paper12.pdf
+citation: 'Blake Joyce, Asher K Haug-Baltzell, Jonathan P Hulvey, Fiona McCarthy, Upendra Kumar Devisetty, Eric Lyons (2017). "Leveraging CyVerse Resources for De Novo Comparative Transcriptomics of Underserved (Non-model) Organisms" <i>JOVE</i>. 1(12).'
 ---
