@@ -1,20 +1,18 @@
 ---
-title: "Teaching experience 1"
-collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+title: "WQ-MAKER: A FLEXIBLE, SCALABLE GENOME ANNOTATION PIPELINE ON JESTREAM CLOUD"
+collection: workshops
+type: "Cyverse"
+permalink: /workshops/2014-spring-teaching-1 
+venue: "Cyverse"
+date: 2017-02-24
+location: "Tucson, US"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+In this webinar, I presented WQ-MAKER, a customized version of MAKER with a Work Queue-based distributed computing framework designed to run MAKER on multiple virtual machines on the Jetstream cloud. We'll show how to run WQ-MAKER on a test dataset starting from setting up a Jetstream account along with some of the accessory scripts (Ansible playbooks and custom scripts) and a few apps developed to manage the computation and progress. Performance numbers for various genomes annotated using WQ-MAKER will be discussed. The tutorial for this webinar is online at: https://wiki.cyverse.org/wiki/display/TUT/MAKER+2.31.8+with+CCTOOLS+Jetstream+Tutorial and a publication describing WQ-MAKER is here: http://ccl.cse.nd.edu/research/papers/maker-wq-ijbra.pdf
 
-Heading 1
-======
+<!-- [![WQ-MAKER webinar](https://img.youtube.com/vi/BNBX_9s7LFQ/0.jpg)](https://www.youtube.com/watch?v=BNBX_9s7LFQ) -->
 
-Heading 2
-======
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=BNBX_9s7LFQ" target="_blank"><img src="http://img.youtube.com/vi/BNBX_9s7LFQ/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
-Heading 3
-======
+<!-- https://www.youtube.com/watch?v=BNBX_9s7LFQ -->
