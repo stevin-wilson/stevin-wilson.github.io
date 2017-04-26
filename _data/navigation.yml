@@ -10,7 +10,7 @@ main:
     url: /workshops/    
     
   - title: "Research"
-    url: /portfolio/
+    url: /research/
     
   - title: "CV"
     url: /cv/
