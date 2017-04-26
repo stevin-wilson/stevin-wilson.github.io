@@ -2,7 +2,7 @@
 title: "WQ-MAKER: A FLEXIBLE, SCALABLE GENOME ANNOTATION PIPELINE ON JESTREAM CLOUD"
 collection: workshops
 type: "Cyverse"
-permalink: /workshops/2014-spring-teaching-1 
+#permalink: /workshops/2014-spring-teaching-1 
 venue: "Cyverse"
 date: 2017-02-24
 location: "Tucson, US"
