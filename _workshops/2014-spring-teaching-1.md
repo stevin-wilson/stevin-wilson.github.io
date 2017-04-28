@@ -11,7 +11,7 @@ In this webinar, I presented WQ-MAKER, a customized version of MAKER with a Work
 
 <!-- [![WQ-MAKER webinar](https://img.youtube.com/vi/BNBX_9s7LFQ/0.jpg)](https://www.youtube.com/watch?v=BNBX_9s7LFQ) -->
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=BNBX_9s7LFQ" target="_blank"><img src="http://img.youtube.com/vi/BNBX_9s7LFQ/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=P7ePIzrEhDg" target="_blank"><img src="http://img.youtube.com/vi/P7ePIzrEhDg/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" align="center" border="10" /></a>
 
 <!-- https://www.youtube.com/watch?v=BNBX_9s7LFQ -->
