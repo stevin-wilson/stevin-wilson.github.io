@@ -2,7 +2,7 @@
 title: "Evolinc"
 collection: research
 type: "Research"
-permalink: /evolinc/evolinc
+permalink: /research/evolinc
 venue: "CyVerse"
 location: "Tucson, Arizona, US"
 ---
