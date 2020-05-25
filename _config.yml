@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Upenda Kumar Devisetty"
 title_separator          : "-"
 name                     : &name "Dr. Upendra Kumar Devisetty"
-description              : &description "Science Informatician at CyVerse"
+description              : &description "Data Scientist"
 url                      : https://upendrak.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "upendrak.github.io"
@@ -79,9 +79,9 @@ analytics:
 author:
   name             : "Dr. Upendra Kumar Devisetty"
   avatar           : "myprofile.png"
-  bio              : "Science Informatician and Co-Principal Investigator"
-  location         : "Tucson, Arizona"
-  employer         : "CyVerse, University of Arizona"
+  bio              : "Data Scientist"
+  location         : "Durham, North Carolina"
+  employer         : "Greenlight Biosciences"
   googlescholar    : "scholar.google.com/citations?user=12fLkPsAAAAJ&hl=en"
   email            : "upendrakumar.devisetty@gmail.com"
   uri              : 
@@ -96,7 +96,7 @@ author:
   keybase          :
   instagram        : 
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/upendra-kumar-devisetty-95b15845"
+  linkedin         : "https://www.linkedin.com/in/upendradevisetty/"
   orcid            : "http://orcid.org/0000-0003-4686-7235"
   pinterest        :
   soundcloud       :

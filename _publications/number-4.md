@@ -1,5 +1,5 @@
 ---
-title: "Using deep RNA-Seq for polymorphism detection and improving genome annotation of Brassica rapa "
+title: "Polymorphism identification and improved genome annotation of Brassica rapa through deep RNA sequencing"
 collection: publications
 venue: "G3"
 date: 2014-08-12
