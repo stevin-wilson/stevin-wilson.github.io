@@ -17,11 +17,30 @@ Education
 
 Research experience
 ======
-* 2016-current: Science Informatician  
+* 2020-Current: Data Scientist
+  Greenlight Bioscience, Durham, NC
+  * **Duties**: As a Bioinformatics Data Scientist at Greenlight Biosciences, I employ Data Science and Machine Learning techniques for the integrative analysis of Next Generation Sequencing data using high-throughput methods to help deliver high-quality targets for **RNAi**. I enjoy answering compelling questions to enable discovery and novel insights from Big Data. 
+
+* 2016-2019: Science Informatician  
   CyVerse, University of Arizona, AZ
   * **Duties**: Scientifically interact with biologists, bioinformaticians, programming teams and other members of CyVerse team as well as coordinate development across projects, and facilitate integration and cross-communication. Translate community input into proof-of-concept prototypes, formal software requirements, and participate in the design of implementation of Next Generation systems
-  * **Achievements**: Integrated Work-Queue MAKER genome annotation pipeline in the Jetstream cloud, optimized the process of bringing tools and workflows into CyVerse Discovery Environment using Bioconda and Biocontainers, constructed Evolutionary analysis of Long-intergenic Non-Coding RNA pipeline from RNA-Seq data, integrated Gene expression matrix Pegaus pipeline in the Jetstream cloud, integrated more than 50 Bioinformatics apps and images into Cyverse 
+  * **Achievements**: Optimized the process of building Bioinformatics and Data Science
+  software into CyVerse using **Docker**. Developed custom Bioinformatics and computational workflows (MAKER) in the **Jetstream** cloud for processing complex biological data in a distributed processing environment using **Work-queue** and **Pegasus**.Developed novel Bioinformatic pipelines (Eg. RMTA) for mining **100+ TB** of publicly available RNA-seq data. 
   * **Supervisor**: Dr. Eric Lyons
+
+* 2019-2020: Technical Consultant
+  Insight Data Science, Seattle, WA
+  * **Achievements**: Developed and delivered workshops such as Introduction to AWS for Data Scientists, Big Data processing platforms (Hadoop and Spark), Flask web development, ML model deployment using Heroku to Data Engineering fellows.
+
+* 2019: Data Science Fellow
+  Insight Data Science, Seattle, WA
+  * **Achievements**: Built [PlantMD](http://plantmd.onrender.com), an image-based plant disease detection web app that can rapidly and accurately diagnose plant diseases with **99% validation accuracy** and achieving an **ROC-AUC score of 0.92**. Trained and validated **Alexnet** and **VGG16** CNN architectures. Used **(100K, 500GB)** diseased and healthy plant leaf images using using **Keras** on **Google Collabs** GPU nodes. Used **Docker**, **Github** and **Dockerhub** to automatically manage building and deploying PlantMD on **AWS**.
+
+* 2019-Current: Data Science Instructor
+  Datacamp
+  * **Achievements**: Designed and developed course content for **Big Data Fundamentals with
+  PySpark** using **Apache PySpark** and its components (RDD, DataFrames,
+  SparkSQL and MLlib). The course has over 1000 students.
 
 * 2015-2016: Post Doctoral Research Associate  
   Department of Forest Ecosystems and Society, Oregon State University, OR
@@ -57,14 +76,14 @@ Skills
     - Image J and several other high-throughput Phenotyping techniques
 
 * **Computational/Bioinformatics** 
-  * Programming languages: Python, iPython, R, Perl, awk and sed 
+  * Programming languages: Python, iPython, R, Perl, awk and sed
+  * Workflow Management using Snakemake
   * Databases Management Systems: MySQL and PostgresSQL
   * Operating systems: Linux/Unix, including extensive command line knowledge and work with Unix clusters & servers, Mac OS X and Windows
   * Version control using GIT
   * Software virtualization using Docker and Singularity
   * Configuration management systems using Ansible and Openstack
   * Next Generation Sequencing: Quality control, Transcriptome and genome sequence assembly and annotation, Mapping, Differential Gene Expression analysis, Detection of genetic variants including SNPs and Structural Polymorphisms, GO annotation and Enrichment analysis, Clustering, WGCNA, Genotyping-By-Sequencing, Bait-capture enrichment, microRNA analysis and target prediction, QIIME and Metagenomics 
-  * Genetic analysis: Construction of Genetic maps, genotyping, QTL and GWAS 
   * Cloud computing: iPlant, HPC systems such as XSEDE, DIAG and Amazon EC2 
   * Training and online certification:
       - Software and Data carpentry instructors workshop, June 8-9 2016
@@ -76,21 +95,4 @@ Skills
       - Workshop on Comparative Genomics, Colorado State University, July 2011
       - Bioinformatics Short Course on Next-Generation Sequencing, University of California, Davis, Sept 2010
 
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Workshops
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+My full-length C.V can be found [here](http://upendrak.github.io/files/UpendraDevisetty_CV.pdf)
