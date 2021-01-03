@@ -1,11 +1,14 @@
 ---
-title: 'Exploring Tensor functions in Pytorch'
-date: 2020-05-25
+title: 'Flexdashboards in R'
+date: 2021-01-03
 permalink: /posts/2021/flexdashboard-r/
 tags:
   - Flexdashboard
   - R
-  - ipl
+  - Docker
+  - Docker Compose
+  - Shinyproxy
+  - Heroku
 ---
 
 Dashboards have become quite popular recently because of their ability to summarize the data in an easy and inituitative manner. A prime example have been COVID-19 dashboards which have been quite powerful to keep track of the several metrics of COVID-19 cases, infections, recoveries and finally deaths etc., Flexdashboards are 
