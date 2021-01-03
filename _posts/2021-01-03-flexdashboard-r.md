@@ -27,7 +27,7 @@ Flexdashboard are an easy interactive dashboards for R built using `flexdashboar
 
 In this series of blogposts, I am going to show how you can create flexdashboard in R, package it, create an login page, deploy it on cloud etc., Here are the topics which will be covered in details in full
 
-1. How to create a flexdashboard in R
+1. [How to create a flexdashboard in R](https://upendrak.github.io/posts/2021/flexdashboard-r/create-flexdashboard-r)
 
 2. How to package package the flexdashboard using Docker and Docker Compose
 
