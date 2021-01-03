@@ -1,7 +1,9 @@
 ---
 title: 'Flexdashboards in R'
+collection: posts
+type: "Blog Posts"
 date: 2021-01-03
-permalink: /posts/2021/flexdashboard-r/
+permalink: /posts/2021/flexdashboard-r
 tags:
   - Flexdashboard
   - R
@@ -11,9 +13,9 @@ tags:
   - Heroku
 ---
 
-Dashboards have become quite popular recently because of their ability to summarize the data in an easy and inituitative manner. A prime example have been COVID-19 dashboards which have been quite powerful to keep track of the several metrics of COVID-19 cases, infections, recoveries and finally deaths etc., Flexdashboards are 
+Dashboards have become quite popular recently because of their ability to summarize the data in an easy and inituitative manner. A prime example have been COVID-19 dashboards which have been quite powerful to keep track of the several metrics of COVID-19 cases, infections, recoveries and finally deaths etc.,
 
-Flexdashboard are an easy interactive dashboards for R built using `flexdashboard` package in R. They
+Flexdashboard are an easy interactive dashboards built using [flexdashboard](https://rmarkdown.rstudio.com/flexdashboard/) package in R. Some of the features of Flexdashboard include
 
 * Use R Markdown to publish a group of related data visualizations as a dashboard.
 

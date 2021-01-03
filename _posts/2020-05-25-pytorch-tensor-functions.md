@@ -1,5 +1,7 @@
 ---
 title: 'Exploring Tensor functions in Pytorch'
+collection: posts
+type: "Blog Posts"
 date: 2020-05-25
 permalink: /posts/2020/0-GAN/tensor-functions-pytorch/
 tags:
