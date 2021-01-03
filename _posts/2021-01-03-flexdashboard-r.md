@@ -29,8 +29,8 @@ In this series of blogposts, I am going to show how you can create flexdashboard
 
 1. [How to create a flexdashboard in R](https://upendrak.github.io/posts/2021/flexdashboard-r/create-flexdashboard-r)
 
-2. How to package package the flexdashboard using Docker and Docker Compose
+2. [How to package the flexdashboard using Docker and Docker Compose](https://upendrak.github.io/posts/2021/flexdashboard-r/package-flexdashboard-r-docker)
 
-3. Create a log-in page for the flexdashboard using Shinyproxy
+3. [Create a log-in page for the flexdashboard using Shinyproxy](https://upendrak.github.io/posts/2021/flexdashboard-r/create-login-flexdashboard-r)
 
-4. How to deploy the flexdashboard using Heroku
+4. [How to deploy the flexdashboard using Heroku](https://upendrak.github.io/posts/2021/flexdashboard-r/deploy-flexdashboard-r)
